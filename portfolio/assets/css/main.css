@@ -72,6 +72,13 @@ input, select, textarea {
 	appearance: none;
 }
 
+#three {
+	display:none;
+}
+#cta {
+	display:none;
+}
+
 /* Basic */
 
 	@-ms-viewport {
